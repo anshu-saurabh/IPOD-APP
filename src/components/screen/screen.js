@@ -111,7 +111,7 @@ function screen(props) {
 
           <div className={`${settings ? "bg settings" : "rm"}`}>
             <img src={rIcon} alt=""></img>
-            <div>iPod.js</div>
+            <div>IPOD PROJECT</div>
             <div className="name">ANSHU SAURABH</div>
           </div>
         </div>
